@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vmP4cLo088hIM4yC0MANX4uVv2VTvauOytH2yewCDD5Ewg/lRCI6p6y3LNy3C0+gmcQ/vMzDlKBxDILqbwtEw==",
+  "success": true,
+  "projectFilePath": "E:\\DesignPaterns\\BuilderPattern\\BuilderPattern\\BuilderPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
